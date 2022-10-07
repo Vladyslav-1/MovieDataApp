@@ -67,7 +67,3 @@ const personalMovieDB = {
         });
     }
 };
-
-// function calculateVolumeAndArea() {
-//     return "При вычислении произошла ошибка";
-// }
